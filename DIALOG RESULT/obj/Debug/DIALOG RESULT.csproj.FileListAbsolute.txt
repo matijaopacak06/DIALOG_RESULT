@@ -1,0 +1,10 @@
+C:\Users\Ucenik\source\repos\DIALOG RESULT\DIALOG RESULT\bin\Debug\DIALOG RESULT.exe.config
+C:\Users\Ucenik\source\repos\DIALOG RESULT\DIALOG RESULT\bin\Debug\DIALOG RESULT.exe
+C:\Users\Ucenik\source\repos\DIALOG RESULT\DIALOG RESULT\bin\Debug\DIALOG RESULT.pdb
+C:\Users\Ucenik\source\repos\DIALOG RESULT\DIALOG RESULT\obj\Debug\DIALOG RESULT.csproj.AssemblyReference.cache
+C:\Users\Ucenik\source\repos\DIALOG RESULT\DIALOG RESULT\obj\Debug\DIALOG_RESULT.Form1.resources
+C:\Users\Ucenik\source\repos\DIALOG RESULT\DIALOG RESULT\obj\Debug\DIALOG_RESULT.Properties.Resources.resources
+C:\Users\Ucenik\source\repos\DIALOG RESULT\DIALOG RESULT\obj\Debug\DIALOG RESULT.csproj.GenerateResource.cache
+C:\Users\Ucenik\source\repos\DIALOG RESULT\DIALOG RESULT\obj\Debug\DIALOG RESULT.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\source\repos\DIALOG RESULT\DIALOG RESULT\obj\Debug\DIALOG RESULT.exe
+C:\Users\Ucenik\source\repos\DIALOG RESULT\DIALOG RESULT\obj\Debug\DIALOG RESULT.pdb
